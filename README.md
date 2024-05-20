@@ -36,7 +36,7 @@ Riphah International University, Islamabad
 - Eclipse
 - NetBeans
 
-## Relevant Coursework**: 
+## Relevant Coursework: 
 - Data Structures and Algorithms
 - Database Management
 - Machine Learning
