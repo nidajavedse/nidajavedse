@@ -46,7 +46,7 @@ Riphah International University, Islamabad
 - Computer Networks
 
 ## Certifications
-- [Data Analysis with Python](https://www.credly.com/badges/dadde500-fd61-4e68-93d1-4b6f9fd85e93/print)
+- [Data Analysis with Python by IBM](https://www.credly.com/badges/dadde500-fd61-4e68-93d1-4b6f9fd85e93/print)
 - [Building Scalable Java Microservices with Spring Boot and Spring Cloud by GOOGLE Cloud](https://www.coursera.org/account/accomplishments/verify/ABCDEFG)  
 - [Foundations of Project Management by GOOGLE](https://www.coursera.org/account/accomplishments/verify/HIJKLMN)
 
